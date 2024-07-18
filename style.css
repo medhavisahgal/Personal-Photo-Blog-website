@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'panton';
+    src: url(./panton/Panton-BlackCaps.otf);
+}
+nav{
+    font-family: panton;
+    font-size: 20px;
+    color:black;
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 25px;
+    border-bottom: gray 2px solid;
+    width:40%;
+}
+img{
+    width: 30%;
+    margin:1.4%;
+
+}
